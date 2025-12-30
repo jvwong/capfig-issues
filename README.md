@@ -1,2 +1,3 @@
-# capfig-issues
-Issue repository for the CapFig tool
+# CapFig Issues
+
+This is an issue repository for the CapFig tool.
